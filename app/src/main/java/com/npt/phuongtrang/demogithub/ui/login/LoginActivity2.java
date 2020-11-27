@@ -26,7 +26,7 @@ import com.npt.phuongtrang.demogithub.R;
 import com.npt.phuongtrang.demogithub.ui.login.LoginViewModel;
 import com.npt.phuongtrang.demogithub.ui.login.LoginViewModelFactory;
 
-public class LoginActivity extends AppCompatActivity {
+class LoginActivity extends AppCompatActivity {
 
     private LoginViewModel loginViewModel;
 
